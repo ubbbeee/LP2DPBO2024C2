@@ -1,5 +1,6 @@
 
 # LP2DPBO2024C2
+Saya Alfen Fajri Nurulhaq (2201431) mengerjakan Latihan Prakitum 2 OOP Inheritance dalam mata kuliah Strukdat untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesikasikan.Aamiin
 # DIAGRAM
 ![Screenshot 2024-02-26 124856](https://github.com/ubbbeee/LP2DPBO2024C2/assets/120569318/4b745790-58d4-4299-b0fd-61214e7f4c90)
 
