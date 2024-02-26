@@ -1,4 +1,8 @@
+
 # LP2DPBO2024C2
+# DIAGRAM
+![Screenshot 2024-02-26 124856](https://github.com/ubbbeee/LP2DPBO2024C2/assets/120569318/4b745790-58d4-4299-b0fd-61214e7f4c90)
+
 Latihan Praktikum 2 DPBO C2 Alfen Fajri Nurulhaq 2201431
 Pada program Java Python C++ dan PHP
 membuat 3 class utama inheritance yaitu:
@@ -31,6 +35,7 @@ lalu tampilkan data pada console dengan bentuk tabel(Java, C++, PHP) dan list (P
 berbeda dengan PHP tidak ada masukkan data dari user namun di hardcode dengan data yang ada
 
 # COMPILE
-
+![Screenshot 2024-02-26 125025](https://github.com/ubbbeee/LP2DPBO2024C2/assets/120569318/5f79b62f-cc72-44ea-bde0-20d045da6b1d)
+![Screenshot 2024-02-26 125815](https://github.com/ubbbeee/LP2DPBO2024C2/assets/120569318/7890c71d-55b1-49fe-903e-7495e45621d9)
 
   
